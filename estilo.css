@@ -1,0 +1,35 @@
+#map {
+	height: 500px;
+	width: 100%;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	text-align: justify;
+}
+img{
+	display: block;
+	margin: auto;
+}
+#btn{
+	display: block;
+	font-size: 25px;
+	margin: auto;
+}
+#temperatura {
+	font-size: medium;
+	display: block;
+	margin: auto;
+}
+#ciudad {
+	font-size: x-large;
+	display: block;
+	margin: auto;
+}
+#texto {
+	font-size: x-large;
+	display: block;
+	margin: auto;
+}
